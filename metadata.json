@@ -1,0 +1,6 @@
+{
+  "name": "Transformasi Geometri: Ruang Refleksi - IFP",
+  "description": "Media tayang pembelajaran interaktif matematika kelas IX untuk Interactive Flat Panel (IFP), materi Refleksi Titik & Bangun Datar. Disusun oleh Irma Muflihah, S.Pd. - SMP Negeri 2 Kemranjen.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
